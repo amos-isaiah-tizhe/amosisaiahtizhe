@@ -55,14 +55,6 @@ I specialize in building practical, production-style applications such as:
 
 ---
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amosisaiahtizhe&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amosisaiahtizhe&layout=compact&theme=tokyonight)
-
----
-
 ## Current Focus
 
 - Strengthening JavaScript fundamentals
